@@ -2,31 +2,18 @@
 
 ## My name is Anton and I'm a Frontend developer.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <h3>About me</h3>
-    <p>- 🌍 I'm based in Warsaw, Poland.</p>
-    <p>- ✉️ You can contact me at <a href="mailto:chanankuan1@gmail.com" target="_blank" rel="noreferrer">chanankuan1@gmail.com</a>.</p>
-    <p>- 🚀 I'm currently working on a Resource Management System and ProfileMe.dev.</p>
-    <p>- 🧠 I'm learning NestJs.</p>
-    <p>- 🤝 I'm open to collaborating on exciting projects as a frontend as well as a backend developer.</p>
-    <p>- 🤗 Feel free to download my <a href="https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en" target="_blank" rel="noreferrer">CV</a>.</p>
-  </div>
+### About me
 
-  <div>
-    <img src="https://github.com/chanankuan/chanankuan/blob/main/assets/img/avatar.png?raw=true" />
-  </div>
-</div>
-<!-- - 🌍 I'm based in Warsaw, Poland.
+![My avatar](https://github.com/chanankuan/chanankuan/blob/main/assets/img/avatar.png?raw=true)
+
+- 🌍 I'm based in Warsaw, Poland.
 - ✉️ You can contact me at <a href="mailto:chanankuan1@gmail.com" target="_blank" rel="noreferrer">chanankuan1@gmail.com</a>.
 - 🚀 I'm currently working on a Resource Management System and ProfileMe.dev.
 - 🧠 I'm learning NestJs.
 - 🤝 I'm open to collaborating on exciting projects as a frontend as well as a backend developer.
-- 🤗 Feel free to download my <a href="https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en" target="_blank" rel="noreferrer">CV</a>. -->
+- 🤗 Feel free to download my <a href="https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en" target="_blank" rel="noreferrer">CV</a>.
 
 ###
-
-<!-- ![alt text](https://github.com/chanankuan/chanankuan/blob/main/assets/img/avatar.png?raw=true) -->
 
 ---
 
