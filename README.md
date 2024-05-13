@@ -1,19 +1,36 @@
-Hey 👋 What's up?
-=================
+# Hey 👋 What's up?
 
-My name is Anton and I'm a Frontend developer.
-----------------------------------------------
+## My name is Anton and I'm a Frontend developer.
 
-### About me ###
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h3>About me</h3>
+    <p>- 🌍 I'm based in Warsaw, Poland.</p>
+    <p>- ✉️ You can contact me at <a href="mailto:chanankuan1@gmail.com" target="_blank" rel="noreferrer">chanankuan1@gmail.com</a>.</p>
+    <p>- 🚀 I'm currently working on a Resource Management System and ProfileMe.dev.</p>
+    <p>- 🧠 I'm learning NestJs.</p>
+    <p>- 🤝 I'm open to collaborating on exciting projects as a frontend as well as a backend developer.</p>
+    <p>- 🤗 Feel free to download my <a href="https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en" target="_blank" rel="noreferrer">CV</a>.</p>
+  </div>
 
-* 🌍  I'm based in Warsaw, Poland.
-* ✉️  You can contact me at <a href="mailto:chanankuan1@gmail.com" target="_blank" rel="noreferrer">chanankuan1@gmail.com</a>.
-* 🚀  I'm currently working on a Resource Management System and ProfileMe.dev.
-* 🧠  I'm learning NestJs.
-* 🤝  I'm open to collaborating on exciting projects as a frontend as well as a backend developer.
-* 🤗  Feel free to download my <a href="https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en" target="_blank" rel="noreferrer">CV</a>.
+  <div>
+    <img src="https://github.com/chanankuan/chanankuan/blob/main/assets/img/avatar.png?raw=true" />
+  </div>
+</div>
+<!-- - 🌍 I'm based in Warsaw, Poland.
+- ✉️ You can contact me at <a href="mailto:chanankuan1@gmail.com" target="_blank" rel="noreferrer">chanankuan1@gmail.com</a>.
+- 🚀 I'm currently working on a Resource Management System and ProfileMe.dev.
+- 🧠 I'm learning NestJs.
+- 🤝 I'm open to collaborating on exciting projects as a frontend as well as a backend developer.
+- 🤗 Feel free to download my <a href="https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en" target="_blank" rel="noreferrer">CV</a>. -->
 
-### Socials ###
+###
+
+<!-- ![alt text](https://github.com/chanankuan/chanankuan/blob/main/assets/img/avatar.png?raw=true) -->
+
+---
+
+### Socials
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chanankuan/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
@@ -21,7 +38,11 @@ My name is Anton and I'm a Frontend developer.
   <a href="https://t.me/chanchiik" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
 </div>
 
-### I code with ###
+###
+
+---
+
+### I code with
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /></a>
@@ -52,9 +73,11 @@ My name is Anton and I'm a Frontend developer.
 
 <!-- <img src="https://raw.githubusercontent.com/chanankuan/chanankuan/output/snake.svg" alt="Snake animation" /> -->
 
+###
+
 ---
 
-### My stats ###
+### My stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chanankuan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
