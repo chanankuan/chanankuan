@@ -1,14 +1,14 @@
 # Hey 👋 What's up?
 
-## My name is Anton and I'm a Frontend developer.
+### My name is Anton and I'm a Frontend developer.
 
-### About me
+### About me:
 
 ![My avatar](https://github.com/chanankuan/chanankuan/blob/main/assets/img/avatar.png?raw=true)
 
 - 🌍 I'm based in Warsaw, Poland.
 - ✉️ You can contact me at <a href="mailto:chanankuan1@gmail.com" target="_blank" rel="noreferrer">chanankuan1@gmail.com</a>.
-- 🚀 I'm currently working on a Resource Management System and ProfileMe.dev.
+- 🚀 I'm currently working on a Resource Management System.
 - 🧠 I'm learning NestJs.
 - 🤝 I'm open to collaborating on exciting projects as a frontend as well as a backend developer.
 - 🤗 Feel free to download my <a href="https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en" target="_blank" rel="noreferrer">CV</a>.
