@@ -11,7 +11,7 @@
 - 🚀 I'm currently working on a Resource Management System.
 - 🧠 I'm learning NestJs.
 - 🤝 I'm open to collaborating on exciting projects as a frontend as well as a backend developer.
-- 🤗 Feel free to download my <a href="https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en" target="_blank" rel="noreferrer">CV</a>.
+- 🤗 Feel free to download my <a href="[https://europa.eu/europass/eportfolio/screen/share/documents/41fb6127-a267-4604-9ca9-18adedc4f638?lang=en](https://drive.google.com/file/d/1cvi0GpKhrsFBSjqh2QR4CiGok2_Hd6tg/view?usp=sharing)" target="_blank" rel="noreferrer">CV</a>.
 
 ###
 
